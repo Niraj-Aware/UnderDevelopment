@@ -1,4 +1,5 @@
-PyPDF2
-gTTS
-IPython
 streamlit
+PyPDF2
+gtts
+numpy
+PyAudio
