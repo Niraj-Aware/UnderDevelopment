@@ -7,7 +7,10 @@ from pydub.playback import play
 
 
 # Define the audio files and their names
-audio_files = {' The Red Notebook': 'C:/Users/niraj/Downloads/The_Red_NoteBook.mp3'}
+audio_files = {audio_files = {
+    "The Red Notebook": "C:/Users/niraj/Downloads/The_Red_NoteBook.mp3",
+    # Add more audiobook files here
+}
 
 
 # Define the audio player function
