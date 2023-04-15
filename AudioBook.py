@@ -7,9 +7,7 @@ from pydub.playback import play
 
 
 # Define the audio files and their names
-audio_files = {'The Adventures of Sherlock Holmes': 'audio/the_adventures_of_sherlock_holmes.mp3',
-               'The Count of Monte Cristo': 'audio/the_count_of_monte_cristo.mp3',
-               ' The Red Notebook': 'C:/Users/niraj/Downloads/The_Red_NoteBook.mp3'}
+audio_files = {' The Red Notebook': 'C:/Users/niraj/Downloads/The_Red_NoteBook.mp3'}
 
 
 # Define the audio player function
