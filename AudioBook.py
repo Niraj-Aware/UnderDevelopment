@@ -5,9 +5,10 @@ from pydub.playback import play
 
 
 # Define the audio files and their names
-audio_files = {'Book 1': 'book1.mp3',
-               'Book 2': 'book2.mp3',
-               'Book 3': 'book3.mp3'}
+audio_files = {'The Adventures of Sherlock Holmes': 'audio/the_adventures_of_sherlock_holmes.mp3',
+               'The Count of Monte Cristo': 'audio/the_count_of_monte_cristo.mp3',
+               'Pride and Prejudice': 'audio/pride_and_prejudice.mp3'}
+
 
 # Define the audio player function
 def play_audio(file_path):
